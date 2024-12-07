@@ -10,4 +10,4 @@ Watch tutorial on Youtube
 
 1. Open index.html in your browser.
 
-2. Make another change
+2. Test again
